@@ -1,0 +1,20 @@
+<RCC>
+	<qresource prefix="GameWindow">
+		<file>res/buy_item.wav</file>
+		<file>res/empty_click.wav</file>
+		<file>res/explode_he.wav</file>
+		<file>res/explode_molotov.wav</file>
+		<file>res/explode_smoke.wav</file>
+		<file>res/footstep.wav</file>
+		<file>res/hit_body.wav</file>
+		<file>res/knife_swing.wav</file>
+		<file>res/reload_mag.wav</file>
+		<file>res/shoot_pistol.wav</file>
+		<file>res/shoot_rifle.wav</file>
+		<file>res/shoot_shotgun.wav</file>
+		<file>res/shoot_smg.wav</file>
+		<file>res/shoot_sniper.wav</file>
+		<file>res/bgm.mp3</file>
+		<file>res/app_icon.ico</file>
+	</qresource>
+</RCC>
